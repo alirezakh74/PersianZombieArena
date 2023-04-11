@@ -1,4 +1,4 @@
 # PersianZombieArena
-zombie arena game with Persian language  
+a top down shooter game with Persian language  
 
-بازی منطقه زامبی با حضور زامبی های عمامه دار
+بازی دوبعدی شوتر منطقه زامبی با حضور زامبی های عمامه دار
